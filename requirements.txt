@@ -3,4 +3,6 @@ torchvision
 ultralytics
 opencv-python
 numpy
-skimage
+scikit-image
+matplotlib
+streamlit
